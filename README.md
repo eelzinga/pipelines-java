@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/ericsubscription0128/Agile%20Planning%20and%20Portfolio%20Management%20with%20Azure%20Boards/_apis/build/status/eelzinga.pipelines-java?branchName=main)](https://dev.azure.com/ericsubscription0128/Agile%20Planning%20and%20Portfolio%20Management%20with%20Azure%20Boards/_build/latest?definitionId=3&branchName=main)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
